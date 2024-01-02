@@ -1,0 +1,8 @@
+syntax: glob
+*.l\#*
+*.b\#*
+*.s\#*
+*.epf
+*.~~~
+*.zip
+*.csv
