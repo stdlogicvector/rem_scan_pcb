@@ -2,6 +2,9 @@
 
 ## An open source scan controller for SEMs
 
+Firmware: https://github.com/stdlogicvector/rem_scan
+GUI: https://github.com/stdlogicvector/rem_scan_gui
+
 This PCB features two 16bit DACs to steer the electron beam of an SEM and two 16bit ADCs to acquire the image signal from up to two detectors.
 
 It can be controlled via USB. The FTDI chip provides a virtual comport, a fast FIFO connection and a JTAG port for flashing the gateware.
